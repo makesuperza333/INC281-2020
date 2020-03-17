@@ -1,13 +1,13 @@
 
 # INC281-2020
 
-:pushpin: News, Documents and other resources for `INC281` will be provided in this repository.
+News, Documents, Videos and other resources for `INC281` will be provided in this repository.
 
 ---
 
 ## News
 
-- **18 March, 2020** No class.
+:pushpin: **18 March, 2020** No class.
 
 ---
 
