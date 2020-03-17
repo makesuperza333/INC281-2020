@@ -13,7 +13,7 @@
 
 ## :books: Documents
 
-:page_facing_up: [INC281-2020-Slide1](resource/docs/INC281-2020-Slide1.pdf) - Introcution and Basic HTML
+:page_facing_up: [INC281-2020-Slide1](resources/docs/INC281-2020-Slide1.pdf) - Introcution and Basic HTML
 
 ---
 
