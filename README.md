@@ -7,11 +7,11 @@
 
 ## News
 
-- This class requires :mask: and :computer:
+- **18 March, 2020** No class.
 
 ---
 
-## :books: Documents
+## :books: Documents & Videos
 
 :page_facing_up: [INC281-2020-Slide1](resources/docs/INC281-2020-Slide1.pdf) - Introcution and Basic HTML
 
