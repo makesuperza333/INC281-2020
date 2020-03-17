@@ -13,7 +13,7 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 ## :books: Documents & Videos
 
-:page_facing_up: [INC281-2020-Slide1](resources/docs/INC281-2020-Slide1.pdf) - Introcution and Basic HTML
+:page_facing_up: [INC281-2020-Slide1](resources/docs/INC281-2020-Slide1.pdf) - Introduction and Basic HTML
 
 > Other documents and Videos will be provided here soon.
 
