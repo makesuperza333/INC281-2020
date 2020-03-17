@@ -15,6 +15,8 @@
 
 :page_facing_up: [INC281-2020-Slide1](resources/docs/INC281-2020-Slide1.pdf) - Introcution and Basic HTML
 
+> Other documents and Videos will be provided here soon.
+
 ---
 
 ## :dart: Design and build your own IoT application.
