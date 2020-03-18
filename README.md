@@ -15,7 +15,7 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 :page_facing_up: [INC281-2020-Lecture01](resources/docs/INC281-2020-Lecture01.pdf) - **Introduction** and **Basic HTML**
 
-:page_facing_up: [INC281-2020-Lab01](resources/docs/INC281-2020-Lab01-Install-VSCode.pdf) - Doanload and Install the **VSCode**
+:page_facing_up: [INC281-2020-Lab01](resources/docs/INC281-2020-Lab01-Install-VSCode.pdf) - Download and Install the **VSCode**
 
 :page_facing_up: [INC281-2020-Lab02](resources/docs/INC281-2020-Lab02-Install-LiveServer.pdf) - Install the **Live Server**
 
