@@ -13,7 +13,7 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 ## :books: Documents & Videos
 
-:page_facing_up: [INC281-2020-Lecture01](resources/docs/INC281-2020-Lecture01.pdf) - **Introduction** and **Basic HTML**
+:page_facing_up: [INC281-2020-Lecture01](resources/docs/INC281-2020-Lecture01-Introduction-BasicHTML.pdf) - **Introduction** and **Basic HTML**
 
 :page_facing_up: [INC281-2020-Lab01](resources/docs/INC281-2020-Lab01-Install-VSCode.pdf) - Download and Install the **VSCode**
 
