@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #222;
+}
+
+h1{
+    color:bisque
+}
+
+.btn{
+    width: 120px;
+    height: 40px;
+    border-radius: 4px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.motor{
+    font-family: cursive;
+}
+
+.pump{
+    font-family: Georgia;
+}
+
+#btnS {
+    color: darkgreen;
+}
+
+#btnP {
+    color: darkred;
+}
