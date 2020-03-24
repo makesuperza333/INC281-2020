@@ -11,6 +11,10 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 :pushpin: **22 March, 2020** : Please complete the **Lec-Lab-02**.
 
+:pushpin: **24 March, 2020** : Please complete the **Lec-Lab-03**.
+
+> Please pay your time to practice the three programming languages, **HTML**, **CSS** and **JavaScript**
+
 > Download the lecture notes and labsheets below.
 
 ---
@@ -20,6 +24,10 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 :page_facing_up: [INC281-2020-Lec-Lab-01](resources/docs/INC281-2020-Lec-Lab-01-Into-HTML.pdf) - **Introduction** and **Basic HTML**
 
 :page_facing_up: [INC281-2020-Lec-Lab-02](resources/docs/INC281-2020-Lec-Lab-02-CSS.pdf) - **Basic CSS** and **Bootstrap**
+
+:page_facing_up: [INC281-2020-Lec-Lab-03](resources/docs/INC281-2020-Lec-Lab-03-JavaScript.pdf) - **Basic JavaScript Programming**
+
+> Please pay your time to practice the three programming languages, **HTML**, **CSS** and **JavaScript**
 
 ---
 
