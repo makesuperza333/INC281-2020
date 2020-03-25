@@ -5,7 +5,7 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 ---
 
-## :pushpin: 1<sup>st</sup>Assignment (30%)
+## :pushpin: 1<sup>st</sup> Assignment (30%)
 
 ![alt text](resources/images/assignment-1.png)
 
