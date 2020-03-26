@@ -27,6 +27,8 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 :pushpin: **25 March, 2020** : Please check the first video for more details about our class and your first **assignment**.
 
+:pushpin: **26 March, 2020** : Please check the second video for Basic HTML programming.
+
 > Please pay your time to practice the three programming languages, **HTML**, **CSS** and **JavaScript**
 
 > Download the lecture notes and labsheets below.
@@ -36,6 +38,8 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 ## :movie_camera: Videos
 
 1) [Introduction to INC281 and the first assignment](https://www.youtube.com/watch?v=0dBNmv72LGg)
+
+2) [Basic HTML Programming](https://www.youtube.com/watch?v=T6wu_dAlLjQ)
 
 ---
 
