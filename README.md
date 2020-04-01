@@ -29,6 +29,8 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 :pushpin: **26 March, 2020** : Please check the second video for Basic HTML programming.
 
+:pushpin: **01 April, 2020** : The video of the Basic CSS and Bootstrap is uploaded.
+
 > Please pay your time to practice the three programming languages, **HTML**, **CSS** and **JavaScript**
 
 > Download the lecture notes and labsheets below.
@@ -40,6 +42,8 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 1) [Introduction to INC281 and the first assignment](https://www.youtube.com/watch?v=0dBNmv72LGg)
 
 2) [Basic HTML Programming](https://www.youtube.com/watch?v=T6wu_dAlLjQ)
+
+3) [Basic HTML Programming](shorturl.at/kzDW2)
 
 ---
 
