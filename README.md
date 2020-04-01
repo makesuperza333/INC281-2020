@@ -43,7 +43,7 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 2) [Basic HTML Programming](https://www.youtube.com/watch?v=T6wu_dAlLjQ)
 
-3) [Basic HTML Programming](shorturl.at/kzDW2)
+3) [Basics of CSS and Bootstrap](shorturl.at/kzDW2)
 
 ---
 
