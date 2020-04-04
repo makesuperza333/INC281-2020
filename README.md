@@ -31,6 +31,10 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 :pushpin: **01 April, 2020** : The video of the Basic CSS and Bootstrap is uploaded.
 
+:pushpin: **04 April, 2020** : The **Lab03 Install VSPD** is uploaded.
+
+:pushpin: **04 April, 2020** : The **virtual-serial-port-driver-6.9.rar** is uploaded (check in the `Software tool` section below).
+
 > Please pay your time to practice the three programming languages, **HTML**, **CSS** and **JavaScript**
 
 > Download the lecture notes and labsheets below.
@@ -43,7 +47,7 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 2) [Basic HTML Programming](https://www.youtube.com/watch?v=T6wu_dAlLjQ)
 
-3) [Basics of CSS and Bootstrap](https://web.facebook.com/santi.inc.kmutt/videos/vb.100004455039299/1427957014029453/?type=2&video_source=user_video_tab)
+3) [Basics of CSS and Bootstrap](https://www.youtube.com/watch?v=QPhMT3NKhJI)
 
 ---
 
@@ -65,11 +69,21 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 :page_facing_up: [INC281-2020-Lab02](resources/docs/INC281-2020-Lab02-Install-LiveServer.pdf) - Install the **Live Server**
 
+:page_facing_up: [INC281-2020-Lab03](resources/docs/INC281-2020-Lab03-Install-VSPD.pdf) - Install the **VSPD**
+
 > Other documents and Videos will be provided here soon.
 
 ---
 
+## :computer: Software tools
+
+[virtual-serial-port-driver-6.9.rar](resources/software-tools/virtual-serial-port-driver-6.9.rar)
+
+> :warning:**Extract** the file and run the installer as **administrator** (Right-click and choose **Run as administrator****)
+
 ## :dart: Design and build your own IoT application.
+
+---
 
 ![alt text](resources/images/cover.png)
 
