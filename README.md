@@ -81,9 +81,10 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 > :warning:**Extract** the file and run the installer as **administrator** (Right-click and choose **Run as administrator****)
 
+---
+
 ## :dart: Design and build your own IoT application.
 
----
 
 ![alt text](resources/images/cover.png)
 
