@@ -81,7 +81,9 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 ## :computer: Software tools
 
-[virtual-serial-port-driver-6.9.rar](resources/software-tools/virtual-serial-port-driver-6.9.rar)
+:gear: [virtual-serial-port-driver-6.9.rar](resources/software-tools/virtual-serial-port-driver-6.9.rar)
+
+:gear: [ecc-uart-websockets-cli-installer-v1.0.2.rar](resources/software-tools/ecc-uart-websockets-cli-installer-v1.0.2.rar)
 
 > :warning:**Extract** the file and run the installer as **administrator** (Right-click and choose **Run as administrator****)
 
