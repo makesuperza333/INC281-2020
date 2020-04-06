@@ -49,7 +49,7 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 3) [Basics of CSS and Bootstrap](https://www.youtube.com/watch?v=QPhMT3NKhJI)
 
-4) [Basics of JavaScript](https://www.youtube.com/watch?v=AmM9XckMNQ8)
+4) [Basics of JavaScript Programming](https://www.youtube.com/watch?v=AmM9XckMNQ8)
 
 ---
 
