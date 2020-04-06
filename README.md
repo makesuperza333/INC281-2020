@@ -73,6 +73,8 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 :page_facing_up: [INC281-2020-Lab03](resources/docs/INC281-2020-Lab03-Install-VSPD.pdf) - Install the **VSPD**
 
+:page_facing_up: [INC281-2020-Lab04](resources/docs/INC281-2020-Lab04-Install-Uart-WebSockets.pdf) - Install the **ECC-Uart-WebSockets**
+
 > Other documents and Videos will be provided here soon.
 
 ---
