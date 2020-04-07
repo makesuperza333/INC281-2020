@@ -51,6 +51,8 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 4) [Basics of JavaScript Programming](https://www.youtube.com/watch?v=AmM9XckMNQ8)
 
+5) [Install the VSPD and ECC-Uart-WebSockets](https://www.youtube.com/watch?v=4YZTgBoScfg) *check the Lab3 and Lab4*
+
 ---
 
 ## :books: Documents
@@ -60,7 +62,6 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 :page_facing_up: [INC281-2020-Lec-Lab-02](resources/docs/INC281-2020-Lec-Lab-02-CSS.pdf) - **Basic CSS** and **Bootstrap**
 
 :page_facing_up: [INC281-2020-Lec-Lab-03](resources/docs/INC281-2020-Lec-Lab-03-JavaScript.pdf) - **Basic JavaScript Programming**
-
 
 
 > Please pay your time to practice the three programming languages, **HTML**, **CSS** and **JavaScript**
@@ -74,8 +75,6 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 :page_facing_up: [INC281-2020-Lab03](resources/docs/INC281-2020-Lab03-Install-VSPD.pdf) - Install the **VSPD**
 
 :page_facing_up: [INC281-2020-Lab04](resources/docs/INC281-2020-Lab04-Install-Uart-WebSockets.pdf) - Install the **ECC-Uart-WebSockets**
-
-> Other documents and Videos will be provided here soon.
 
 ---
 

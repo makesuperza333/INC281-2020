@@ -1,0 +1,3 @@
+1) Right-click on the "vspd.exe" and choose "Run as administrator" to install the VSPD.
+
+2) After the installation is completed, copy the "vspdctl.dll" and paste (replace) in installed folder, i.e. "C:\Program Files (x86)\Eltima Software\Virtual Serial Port Driver 6.9"
