@@ -53,6 +53,8 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 5) [Install the VSPD and ECC-Uart-WebSockets](https://www.youtube.com/watch?v=4YZTgBoScfg) *check the Lab3 and Lab4*
 
+6) [Runing the Simulation System](https://www.youtube.com/watch?v=D1nmQegsyFg)
+
 ---
 
 ## :books: Documents
