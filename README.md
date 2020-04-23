@@ -13,11 +13,11 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 - The circuit can be run in the Proteus simulator
 
-- The control and monitoring application cab be run in a web-browser (web application)
+- The control and monitoring application can be run in a web browser (web application)
 
-- All sensors in circuit can be monitored by the web application
+- All sensors in the circuit can be monitored by the web application
 
-- All actuator in circuit can be controlled by the web application
+- All actuator in the circuit can be controlled by the web application
 
 > Check the [video #7](https://www.youtube.com/watch?v=-wb7nySQkYc) for more details and guidelines.
 
@@ -60,9 +60,9 @@ Our simulation circuit has the followings
 
 - A **pdf document** and **source code** must be compressed as a `*.zib`, `*.rar` or `*.7-zip`
 
-- A video presentation must be uploaded to an online storage, e.g., YouTube, and send the link (url) to the e-mail.
+- A video presentation must be uploaded to online storage, e.g., YouTube, and send the link (URL) to the e-mail.
 
-- Submit the compressed file and link of the video to: **santi.inc.kmutt@gmail.com**
+- Submit the compressed file and link of the video to **santi.inc.kmutt@gmail.com**
 
 - The email title must be **INC281-GX**, where the **GX** is your group id, e.g., G1, G2,...
 
