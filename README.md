@@ -5,15 +5,66 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 ---
 
-## :pushpin: 1<sup>st</sup> Assignment (30%)
+## :pushpin: Final Assignment
 
-![alt text](resources/images/assignment-1.png)
+### Design and complete a mini-project:
 
-- :warning: The high quality of document must be submitted on **8 April, 2020**
+- Adapt the previous project or redesign a new one
 
-- :e-mail: Submit the document as PDF file to **santi.inc.kmutt@gmail.com**
+- The circuit can be run in the Proteus simulator
 
-> :page_facing_up: Example document can be downloaded [here](resources/docs/INC281-2020-example-document.pdf)
+- The control and monitoring application cab be run in a web-browser (web application)
+
+- All sensors in circuit can be monitored by the web application
+
+- All actuator in circuit can be controlled by the web application
+
+> Check the [video #7](https://www.youtube.com/watch?v=-wb7nySQkYc) for more details and guidelines.
+
+### Minimum requirements of the system:
+
+- Two digital output sensors
+
+- Two analog output sensors
+
+- Two digital input actuators
+
+- One PWM input actuators
+
+#### Note:
+
+Our simulation circuit has the followings
+
+- 4-channel of voltage sources, the POTs (can be used as the analog output sensors)
+
+- 4-channel of switches, the PSWs (can be used as the digital output sensors)
+
+- 4-channel of digital output, the LEDs (can be used as the normal digital input actuators)
+
+- 4-channel of PWM signal output, the PWMs (can be used as the PWM input actuators)
+
+- 1-channel of Beep sound generator, the Buzzer (can be used for alarming)
+
+
+#### Tasks:
+
+- Complete the document (engineering document)
+
+- Complete the web-based application (html, css, javascript)
+
+- Complete the video presentation (20-30 minutes long)
+
+#### Submission:
+
+- Deadline: **15 May 2020**
+
+- A **pdf document** and **source code** must be compressed as a `*.zib`, `*.rar` or `*.7-zip`
+
+- A video presentation must be uploaded to an online storage, e.g., YouTube, and send the link (url) to the e-mail.
+
+- Submit the compressed file and link of the video to: **santi.inc.kmutt@gmail.com**
+
+- The email title must be **INC281-GX**, where the **GX** is your group id, e.g., G1, G2,...
 
 ---
 
@@ -54,6 +105,8 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 5) [Install the VSPD and ECC-Uart-WebSockets](https://www.youtube.com/watch?v=4YZTgBoScfg) *check the Lab3 and Lab4*
 
 6) [Runing the Simulation System](https://www.youtube.com/watch?v=D1nmQegsyFg)
+
+7) [Project Guidelines](https://www.youtube.com/watch?v=-wb7nySQkYc)
 
 ---
 
