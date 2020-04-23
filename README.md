@@ -9,7 +9,7 @@ News, Documents, Videos and other resources for `INC281` will be provided in thi
 
 ### Design and complete a mini-project:
 
-- Adapt the previous project or redesign a new one
+- Adapt the previous project or redesign a new one to meet the minimum requirements (see below)
 
 - The circuit can be run in the Proteus simulator
 
