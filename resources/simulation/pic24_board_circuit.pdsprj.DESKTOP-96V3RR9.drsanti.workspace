@@ -43,7 +43,7 @@
      <ITEM name="nBreakpoints">0</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="762" x="117" flags="00000008" y="250" h="232" pid="3" iid="1">
+   <POPUP w="74" x="117" flags="00000008" y="250" h="11" pid="3" iid="1">
     <PROPERTIES/>
    </POPUP>
    <POPUP w="16" x="137" flags="0000000a" y="270" h="32" pid="7" iid="1">
@@ -96,7 +96,7 @@
      <ITEM name="TopLineAddress">00000000</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="1093" x="1360" flags="00008023" y="438" h="402" pid="0" iid="22">
+   <POPUP w="1110" x="1360" flags="00008023" y="438" h="1035" pid="0" iid="22">
     <PROPERTIES>
      <ITEM name="AutoEcho">0</ITEM>
      <ITEM name="HexMode">0</ITEM>
