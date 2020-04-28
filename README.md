@@ -111,9 +111,9 @@ Our simulation circuit has the followings
 ---
 ## :movie_camera: Web-based IoT Applications
 
-8 )  [EP01 -- Getting Started with WebGUI Library](https://www.youtube.com/watch?v=UEgXrGnTlSY)
-9 )  [EP02 -- Buttons and LED Control Functions](https://www.youtube.com/watch?v=EnIe-iAQHk8)
-10 ) [EP03 -- Switches and LED Indicators](https://www.youtube.com/watch?v=_qEUHwlRkbo)
+8)  [EP01 -- Getting Started with WebGUI Library](https://www.youtube.com/watch?v=UEgXrGnTlSY)
+9)  [EP02 -- Buttons and LED Control Functions](https://www.youtube.com/watch?v=EnIe-iAQHk8)
+10) [EP03 -- Switches and LED Indicators](https://www.youtube.com/watch?v=_qEUHwlRkbo)
 
 ---
 
