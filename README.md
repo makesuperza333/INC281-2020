@@ -92,7 +92,7 @@ Our simulation circuit has the followings
 
 ---
 
-## :movie_camera: Videos
+## :movie_camera: Basics
 
 1) [Introduction to INC281 and the first assignment](https://www.youtube.com/watch?v=0dBNmv72LGg)
 
@@ -107,6 +107,13 @@ Our simulation circuit has the followings
 6) [Runing the Simulation System](https://www.youtube.com/watch?v=D1nmQegsyFg)
 
 7) [Project Guidelines](https://www.youtube.com/watch?v=-wb7nySQkYc)
+
+---
+## :movie_camera: Web-based IoT Applications
+
+8 )  [EP01 -- Getting Started with WebGUI Library](https://www.youtube.com/watch?v=UEgXrGnTlSY)
+9 )  [EP02 -- Buttons and LED Control Functions](https://www.youtube.com/watch?v=EnIe-iAQHk8)
+10 ) [EP03 -- Switches and LED Indicators](https://www.youtube.com/watch?v=_qEUHwlRkbo)
 
 ---
 
