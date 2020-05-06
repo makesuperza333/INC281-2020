@@ -119,7 +119,7 @@ Our simulation circuit has the followings
 
 11) [EP04 -- ADCs and Gauge Indicators](https://www.youtube.com/watch?v=04jBAlCHmKU)
 
-12) [EP05 -- ADCs and Plotter Indicators](https://www.youtube.com/watch?v=fFGCOWwsP08)
+12) [EP05 -- ADCs and Plotter Indicators](https://www.youtube.com/watch?v=lh3ohYeUmuc)
 
 ---
 
