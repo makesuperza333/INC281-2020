@@ -121,6 +121,8 @@ Our simulation circuit has the followings
 
 12) [EP05 -- ADCs and Plotter Indicators](https://www.youtube.com/watch?v=lh3ohYeUmuc)
 
+13) [EP06 -- Knobs and Pulse Width Modulation](https://www.youtube.com/watch?v=pjoMsKJuioU)
+
 ---
 
 ## :books: Documents
